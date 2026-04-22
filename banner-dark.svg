@@ -1,1 +1,12 @@
 
+<svg width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { fill: #FF00FF; font-size: 40px; font-family: Arial; }
+    .subtitle { fill: white; font-size: 20px; }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <text x="50" y="100" class="title">Vibhore Kumar</text>
+  <text x="50" y="150" class="subtitle">Full Stack Developer</text>
+</svg>
