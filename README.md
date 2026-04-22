@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vibhore Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | AI Builder</h3>
+<h1 align="center">VIBHORE SHARMA</h1>
+<h3 align="center">🚀 FULL STACK DEVELOPER</h3>
 
 <p align="center">
   <a href="https://your-portfolio-link.com">
@@ -7,67 +7,72 @@
   </a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-- 🔭 Working on **AI-Powered Resume Builder**
-- 🌱 Learning **Advanced MERN & System Design**
-- 💡 Interested in **Full Stack + AI Integration**
-- 🎯 Goal: Become a **Top Software Engineer**
-- ⚡ Fun fact: I love building real-world projects over theory
+<p align="center">
+  📍 India &nbsp; | &nbsp; 💼 Available for Opportunities
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 💬 About Me
 
-### 💻 Frontend
-- React.js
-- HTML5, CSS3
-- Tailwind CSS
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🛢️ Database
-- MongoDB
-
-### 🧠 Others
-- Java (DSA)
-- Django (Basics)
-- Git & GitHub
+Hi, I’m Vibhore! 👋  
+I build modern, scalable and user-friendly web applications  
+with clean code and great user experiences.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 AI Resume Builder
-- Smart resume generation using AI
-- Multiple templates + PDF export
-- Live Editing + Preview
-
-### 🔹 E-Commerce Platform
-- Product listing & cart system
-- Responsive UI
-- Backend API integration
-
----
-
-## 🏆 Experience
-
-- 💼 Full Stack Intern @ WebArclight  
-- Built real-world scalable applications  
-- Worked on frontend + backend integration  
-
----
-
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://your-portfolio-link.com">Portfolio</a>
+  <a href="https://github.com/yourusername">GitHub</a> &nbsp; | &nbsp;
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://your-portfolio-link.com">Portfolio</a> &nbsp; | &nbsp;
+  <a href="mailto:youremail@gmail.com">Email Me</a>
+</p>
+
+---
+
+## 🟪 My Projects
+
+🔹 **AI-Powered Resume Builder**  
+🔹 **E-Commerce Platform**  
+
+---
+
+## 🟪 Tech Focus
+
+💻 MERN Stack  
+🐍 Django  
+☕ Java DSA  
+
+---
+
+## 🟪 Experience
+
+💼 Full-Stack Intern  
+🏢 WebArclight  
+
+---
+
+## 🟪 Connect
+
+🤝 Available for collaboration  
+🌍 Open source contributor  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,django,java,git" />
+</p>
+
+---
+
+## ⚡ Building. Learning. Growing. ⚡
+
+<p align="center">
+  🚀 Always improving, always shipping.
 </p>
 
 ---
@@ -84,16 +89,8 @@
 
 ---
 
-## ⚡ Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" />
 </p>
-
----
-
-## 🧠 Quote
-
-> "Code. Build. Repeat. 🚀"
-
----
