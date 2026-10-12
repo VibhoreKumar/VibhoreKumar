@@ -1,7 +1,7 @@
 <!-- Holopin badge board -->
 <p align="center">
   <a href="https://www.holopin.io/@vibhorekumar">
-    <img src="https://holopin.io/api/user/board?user=vibhorekumar" width="100%" alt="Vibhore Kumar’s Holopin badge board" />
+    <img src="https://holopin.io/api/user/board?user=vibhorekumar&amp;refresh=20261013T002449" width="100%" alt="Vibhore Kumar’s Holopin badge board" />
   </a>
 </p>
 
