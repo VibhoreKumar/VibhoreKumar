@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">Vibhore Kumar — Data Engineering</title>
+<desc id="desc">Full-stack roots, a data-driven future. A midnight blue profile banner with mint and lavender accents.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101C35"/><stop offset="1" stop-color="#192544"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#68E5CC"/><stop offset="1" stop-color="#B8A4FF"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A8B8D7" stroke-opacity=".07"/></pattern>
+<clipPath id="clip"><rect width="1000" height="360" rx="24"/></clipPath>
+</defs>
+<style>
+@keyframes drift{50%{stroke-dashoffset:-80}} .flow{animation:drift 8s linear infinite}
+@media(prefers-reduced-motion:reduce){.flow{animation:none}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="1000" height="360" fill="url(#bg)"/><rect width="1000" height="360" fill="url(#grid)"/>
+<circle cx="970" cy="320" r="190" fill="#B8A4FF" opacity=".04"/>
+<circle cx="865" cy="0" r="155" fill="#68E5CC" opacity=".035"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<rect x="44" y="36" width="183" height="32" rx="16" fill="#68E5CC" fill-opacity=".1" stroke="#68E5CC" stroke-opacity=".35"/>
+<circle cx="62" cy="52" r="4" fill="#68E5CC"/>
+<text x="76" y="57" fill="#99F0DD" font-size="13" font-weight="600">BUILDING IN PUBLIC</text>
+<text x="42" y="146" fill="#F3F6FF" font-size="62" font-weight="800" letter-spacing="-2">Vibhore Kumar</text>
+<text x="45" y="196" fill="#68E5CC" font-size="29" font-weight="600">Full-stack roots.</text>
+<text x="45" y="234" fill="#B8A4FF" font-size="29" font-weight="600">A data-driven future.</text>
+<text x="45" y="283" fill="#C0CCE0" font-size="18">Python · ETL pipelines · APIs · Automation</text>
+<path d="M45 317H617" stroke="#35425F"/>
+<text x="45" y="342" fill="#A5B6D1" font-size="13">CSE ’27 / GD Goenka University</text>
+<g fill="#172A42" stroke="#405370">
+<rect x="714" y="74" width="224" height="58" rx="14"/>
+<rect x="714" y="158" width="224" height="58" rx="14"/>
+<rect x="714" y="242" width="224" height="58" rx="14"/>
+</g>
+<path class="flow" d="M826 132V158M826 216V242" stroke="url(#accent)" stroke-width="3" stroke-dasharray="4 5"/>
+<g font-size="17" font-weight="600"><text x="743" y="110" fill="#68E5CC">01 / EXTRACT</text><text x="743" y="194" fill="#B8A4FF">02 / TRANSFORM</text><text x="743" y="278" fill="#F3F6FF">03 / LOAD</text></g>
+</g>
+</g>
+</svg>
