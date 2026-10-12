@@ -1,3 +1,10 @@
+<!-- Holopin badge board -->
+<p align="center">
+  <a href="https://www.holopin.io/@vibhorekumar">
+    <img src="https://holopin.io/api/user/board?user=vibhorekumar" width="100%" alt="Vibhore Kumar’s Holopin badge board" />
+  </a>
+</p>
+
 <!-- Upload README.md and the assets folder together to VibhoreKumar/VibhoreKumar. -->
 <div align="center">
   <img src="./assets/01-cover.svg" width="100%" alt="Vibhore Kumar — Full-stack roots. Data engineering next. Python, ETL, APIs and automation." />
