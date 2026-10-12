@@ -1,60 +1,69 @@
-<p align="center">
-  <a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/nav-linkedin-light.svg" /><img src="./assets/nav-linkedin-dark.svg" width="19%" alt="LinkedIn" /></picture></a>
-  <a href="mailto:vibhore098sharma@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/nav-email-light.svg" /><img src="./assets/nav-email-dark.svg" width="19%" alt="Email" /></picture></a>
-  <a href="https://github.com/VibhoreKumar"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/nav-vk-light.svg" /><img src="./assets/nav-vk-dark.svg" width="19%" alt="Vibhore Kumar" /></picture></a>
-  <a href="https://leetcode.com/u/8ZHi5hqRLR"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/nav-leetcode-light.svg" /><img src="./assets/nav-leetcode-dark.svg" width="19%" alt="LeetCode" /></picture></a>
-  <a href="https://github.com/VibhoreKumar?tab=repositories"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/nav-github-light.svg" /><img src="./assets/nav-github-dark.svg" width="19%" alt="Repositories" /></picture></a>
-</p>
-
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/neon-hero-light.svg" /><img src="./assets/neon-hero-dark.svg" width="100%" alt="Hey, I’m Vibhore. Full-stack developer building toward data engineering. Python, ETL, APIs and automation." /></picture>
-
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/neon-work-light.svg" /><img src="./assets/neon-work-dark.svg" width="100%" alt="Vibhore’s project board: Weather ETL for 16 cities, ReZoom AI Resume Builder, Python and full-stack toolkit, and data engineering opportunities." /></picture>
+<!-- Upload README.md and the assets folder together to VibhoreKumar/VibhoreKumar. -->
+<div align="center">
+  <img src="./assets/01-cover.svg" width="100%" alt="Vibhore Kumar — Full-stack roots. Data engineering next. Python, ETL, APIs and automation." />
+</div>
 
 <p align="center">
-  <a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline">Explore Weather ETL ↗</a> &nbsp; · &nbsp;
-  <a href="https://github.com/VibhoreKumar?tab=repositories">Browse my projects ↗</a> &nbsp; · &nbsp;
-  <a href="mailto:vibhore098sharma@gmail.com">Let’s connect ↗</a>
+  <a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/LINKEDIN-526B7A?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/EMAIL-526B7A?style=flat-square" alt="Email Vibhore" /></a>
+  <a href="https://leetcode.com/u/8ZHi5hqRLR"><img src="https://img.shields.io/badge/LEETCODE-26343C?style=flat-square&amp;logo=leetcode&amp;logoColor=D8D6C7" alt="LeetCode" /></a>
+  <a href="https://geeksforgeeks.org/profile/vibhore092k0l"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-26343C?style=flat-square&amp;logo=geeksforgeeks&amp;logoColor=D8D6C7" alt="GeeksforGeeks" /></a>
 </p>
+
+<br />
+
+<img src="./assets/02-field-notes.svg" width="100%" alt="CSE at GD Goenka University, class of 2027. Moving from full-stack development to data engineering through Python ETL, API integration and automation. Toolkit includes React, Django, Node.js, databases and GitHub Actions." />
+
+<br /><br />
+
+<img src="./assets/03-projects.svg" width="100%" alt="Selected projects: a Python Weather ETL pipeline for 16 cities; a team-built AI Resume Builder; a React and Django Loan Origination System; and WebArclight 24×7." />
+
+<p align="center">
+  <a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline"><img src="https://img.shields.io/badge/01_WEATHER_ETL-VIEW_CODE-26343C?style=for-the-badge&amp;labelColor=526B7A" alt="View Weather ETL repository" /></a>
+  <a href="https://paleturquoise-kudu-295653.hostingersite.com/index.php"><img src="https://img.shields.io/badge/04_WEBARCLIGHT-VISIT_SITE-26343C?style=for-the-badge&amp;labelColor=526B7A" alt="Visit WebArclight website" /></a>
+</p>
+
+<br />
+
+<img src="./assets/04-build-log.svg" width="100%" alt="Full-stack intern at WebArclight, October 2025 to January 2026. Web development intern at UptoSkills, July to September 2025. Now building data engineering projects. U-19 state cricketer, 100+ DSA problems and Python Essentials certification." />
 
 <details>
-<summary><b>Behind the glow — about me, projects & experience</b></summary>
+<summary><b>Read the notes — accessible text version</b></summary>
 
-## About me
+### About
+I'm **Vibhore Kumar**, a CSE student at **GD Goenka University (2027)**, moving from full-stack development into **data engineering**. I build Python ETL pipelines, integrate APIs and automate workflows while documenting what I learn.
 
-I'm **Vibhore Kumar**, a Computer Science Engineering student at **GD Goenka University (2027)**. I started in full-stack development and am building toward **data engineering**, learning through Python pipelines, API integration and automation.
-
-## Selected projects
-
-- **[Weather ETL Pipeline](https://github.com/VibhoreKumar/mini_weather_ETL_pipeline)** — Python’s standard library, Open-Meteo data for 16 cities, JSON Lines, logging and a GitHub Actions schedule configured for every six hours.
-- **ReZoom / AI Resume Builder** — team-built MERN application with AI suggestions, editable templates, JWT authentication, live preview and PDF export.
-- **Loan Origination System** — React and Django internship work on loan processing workflows, reusable UI components and REST APIs.
-- **[WebArclight 24×7](https://paleturquoise-kudu-295653.hostingersite.com/index.php)** — frontend contributions using PHP, JavaScript, HTML and CSS.
-
-## Toolkit
-
-| Focus | Technologies |
-| :--- | :--- |
+### Toolkit
+| Area | Tools |
+| --- | --- |
 | Data | Python, JSON, SQLite, MySQL, ETL, logging |
 | Frontend | React, JavaScript, HTML, CSS, Tailwind CSS |
 | Backend | Node.js, Express, Django, REST APIs, MongoDB |
 | Workflow | Git, GitHub, GitHub Actions, Postman, VS Code |
 
-## Experience
+### Selected work
+- **[Weather ETL](https://github.com/VibhoreKumar/mini_weather_ETL_pipeline):** pulls weather data for 16 cities, classifies readings and writes JSON Lines; configured to run every six hours with GitHub Actions. Built using Python's standard library.
+- **AI Resume Builder:** team project with AI suggestions, editable templates, JWT authentication, live preview and PDF export.
+- **Loan Origination System:** React and Django internship work on loan processing workflows and API integration.
+- **[WebArclight 24×7](https://paleturquoise-kudu-295653.hostingersite.com/index.php):** frontend contributions using PHP, JavaScript, HTML and CSS.
 
-**Full-Stack Developer Intern · WebArclight**  
-October 2025 – January 2026  
-React and Django applications, reusable components, REST API integration and team collaboration.
+### Experience
+- **WebArclight — Full-Stack Developer Intern · Oct 2025–Jan 2026:** React and Django applications, reusable UI components and REST APIs.
+- **UptoSkills — Web Development Intern · Jul–Sep 2025:** frontend and backend contributions with the MERN stack.
+- **Self-directed data engineering:** Python pipelines, logging, error handling and GitHub Actions automation.
 
-**Web Development Intern · UptoSkills**  
-July – September 2025  
-Frontend and backend contributions with the MERN stack, working with mentors and teammates.
-
-## Beyond code
-
-U-19 state cricketer, representing Kota, Rajasthan (2020) · 100+ DSA problems across LeetCode and GeeksforGeeks · Python Essentials certification.
-
-[GeeksforGeeks](https://geeksforgeeks.org/profile/vibhore092k0l) · [LeetCode](https://leetcode.com/u/8ZHi5hqRLR) · [LinkedIn](https://linkedin.com/in/vibhore-kumar-9b9298376)
+### Beyond code
+U-19 state cricket, representing Kota, Rajasthan (2020) · 100+ DSA problems across LeetCode and GeeksforGeeks · Python Essentials certification.
 
 </details>
+
+<br />
+
+<img src="./assets/05-contact.svg" width="100%" alt="Let's build something that makes data useful. Open to entry-level data engineering opportunities and collaboration." />
+
+<p align="center">
+  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-526B7A?style=for-the-badge" alt="Start a conversation by email" /></a>
+  <a href="https://github.com/VibhoreKumar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-26343C?style=for-the-badge&amp;logo=github&amp;logoColor=F5F3ED" alt="Explore my repositories" /></a>
+</p>
 
 <p align="center"><sub>Learning in public · Building one system at a time · India</sub></p>
