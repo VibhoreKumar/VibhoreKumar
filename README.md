@@ -32,6 +32,16 @@
 
 <br />
 
+### Contribution heatmap
+
+<p align="center">
+  <a href="https://github.com/VibhoreKumar?tab=overview">
+    <img src="https://ghchart.rshah.org/126568/VibhoreKumar" width="100%" alt="Vibhore Kumar's GitHub contribution heatmap over the past year" />
+  </a>
+</p>
+
+<br />
+
 <img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/c0994adca2055853b586ed01c7289a6370dbb56b/assets/04-build-log.svg" width="100%" alt="Full-stack intern at WebArclight, October 2025 to January 2026. Web development intern at UptoSkills, July to September 2025. Now building data engineering projects. U-19 state cricketer, 100+ DSA problems and Python Essentials certification." />
 
 <details>
