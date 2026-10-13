@@ -11,10 +11,10 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/LINKEDIN-155E75?style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/EMAIL-5B21B6?style=flat-square" alt="Email Vibhore" /></a>
-  <a href="https://leetcode.com/u/8ZHi5hqRLR"><img src="https://img.shields.io/badge/LEETCODE-111111?style=flat-square&amp;logo=leetcode&amp;logoColor=22D3EE" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org/profile/vibhore092k0l"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-111111?style=flat-square&amp;logo=geeksforgeeks&amp;logoColor=22D3EE" alt="GeeksforGeeks" /></a>
+  <a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/LINKEDIN-126568?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/EMAIL-126568?style=flat-square" alt="Email Vibhore" /></a>
+  <a href="https://leetcode.com/u/8ZHi5hqRLR"><img src="https://img.shields.io/badge/LEETCODE-111111?style=flat-square&amp;logo=leetcode&amp;logoColor=F0D779" alt="LeetCode" /></a>
+  <a href="https://geeksforgeeks.org/profile/vibhore092k0l"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-111111?style=flat-square&amp;logo=geeksforgeeks&amp;logoColor=F0D779" alt="GeeksforGeeks" /></a>
 </p>
 
 <br />
@@ -26,8 +26,8 @@
 <img src="./assets/03-projects.svg" width="100%" alt="Selected projects: a Python Weather ETL pipeline for 16 cities; a team-built AI Resume Builder; a React and Django Loan Origination System; and WebArclight 24×7." />
 
 <p align="center">
-  <a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline"><img src="https://img.shields.io/badge/01_WEATHER_ETL-VIEW_CODE-111111?style=for-the-badge&amp;labelColor=155E75" alt="View Weather ETL repository" /></a>
-  <a href="https://paleturquoise-kudu-295653.hostingersite.com/index.php"><img src="https://img.shields.io/badge/04_WEBARCLIGHT-VISIT_SITE-111111?style=for-the-badge&amp;labelColor=155E75" alt="Visit WebArclight website" /></a>
+  <a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline"><img src="https://img.shields.io/badge/01_WEATHER_ETL-VIEW_CODE-111111?style=for-the-badge&amp;labelColor=126568" alt="View Weather ETL repository" /></a>
+  <a href="https://paleturquoise-kudu-295653.hostingersite.com/index.php"><img src="https://img.shields.io/badge/04_WEBARCLIGHT-VISIT_SITE-111111?style=for-the-badge&amp;labelColor=126568" alt="Visit WebArclight website" /></a>
 </p>
 
 <br />
@@ -69,9 +69,10 @@ U-19 state cricket, representing Kota, Rajasthan (2020) · 100+ DSA problems acr
 <img src="./assets/05-contact.svg" width="100%" alt="Let's build something that makes data useful. Open to entry-level data engineering opportunities and collaboration." />
 
 <p align="center">
-  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-5B21B6?style=for-the-badge" alt="Start a conversation by email" /></a>
+  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-126568?style=for-the-badge" alt="Start a conversation by email" /></a>
   <a href="https://github.com/VibhoreKumar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-111111?style=for-the-badge&amp;logo=github&amp;logoColor=EEEDE8" alt="Explore my repositories" /></a>
 </p>
 
 <p align="center"><sub>Learning in public · Building one system at a time · India</sub></p>
+
 
