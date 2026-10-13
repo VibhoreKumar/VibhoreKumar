@@ -7,7 +7,7 @@
 
 <!-- Upload README.md and the assets folder together to VibhoreKumar/VibhoreKumar. -->
 <div align="center">
-  <img src="./assets/01-cover.svg" width="100%" alt="Vibhore Kumar — Full-stack roots. Data engineering next. Python, ETL, APIs and automation." />
+  <img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/c0994adca2055853b586ed01c7289a6370dbb56b/assets/01-cover.svg" width="100%" alt="Vibhore Kumar — Full-stack roots. Data engineering next. Python, ETL, APIs and automation." />
 </div>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 <br />
 
-<img src="./assets/02-field-notes.svg" width="100%" alt="CSE at GD Goenka University, class of 2027. Moving from full-stack development to data engineering through Python ETL, API integration and automation. Toolkit includes React, Django, Node.js, databases and GitHub Actions." />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/c0994adca2055853b586ed01c7289a6370dbb56b/assets/02-field-notes.svg" width="100%" alt="CSE at GD Goenka University, class of 2027. Moving from full-stack development to data engineering through Python ETL, API integration and automation. Toolkit includes React, Django, Node.js, databases and GitHub Actions." />
 
 <br /><br />
 
-<img src="./assets/03-projects.svg" width="100%" alt="Selected projects: a Python Weather ETL pipeline for 16 cities; a team-built AI Resume Builder; a React and Django Loan Origination System; and WebArclight 24×7." />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/c0994adca2055853b586ed01c7289a6370dbb56b/assets/03-projects.svg" width="100%" alt="Selected projects: a Python Weather ETL pipeline for 16 cities; a team-built AI Resume Builder; a React and Django Loan Origination System; and WebArclight 24×7." />
 
 <p align="center">
   <a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline"><img src="https://img.shields.io/badge/01_WEATHER_ETL-VIEW_CODE-111111?style=for-the-badge&amp;labelColor=126568" alt="View Weather ETL repository" /></a>
@@ -32,7 +32,7 @@
 
 <br />
 
-<img src="./assets/04-build-log.svg" width="100%" alt="Full-stack intern at WebArclight, October 2025 to January 2026. Web development intern at UptoSkills, July to September 2025. Now building data engineering projects. U-19 state cricketer, 100+ DSA problems and Python Essentials certification." />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/c0994adca2055853b586ed01c7289a6370dbb56b/assets/04-build-log.svg" width="100%" alt="Full-stack intern at WebArclight, October 2025 to January 2026. Web development intern at UptoSkills, July to September 2025. Now building data engineering projects. U-19 state cricketer, 100+ DSA problems and Python Essentials certification." />
 
 <details>
 <summary><b>Read the notes — accessible text version</b></summary>
@@ -66,7 +66,7 @@ U-19 state cricket, representing Kota, Rajasthan (2020) · 100+ DSA problems acr
 
 <br />
 
-<img src="./assets/05-contact.svg" width="100%" alt="Let's build something that makes data useful. Open to entry-level data engineering opportunities and collaboration." />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/c0994adca2055853b586ed01c7289a6370dbb56b/assets/05-contact.svg" width="100%" alt="Let's build something that makes data useful. Open to entry-level data engineering opportunities and collaboration." />
 
 <p align="center">
   <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-126568?style=for-the-badge" alt="Start a conversation by email" /></a>
