@@ -1,27 +1,32 @@
+<!-- Versioned artwork URLs ensure design updates load fresh images. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/b4568e187095325597bbd4e77521bb094a9f455d/assets/01-cover.svg" width="100%" alt="VK — Vibhore Kumar, aspiring data engineer. Python, SQL, ETL, APIs and analytics." />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/934dbf7ebc75354fca5f5e200f0fcfa2b3325681/assets/01-cover.svg" width="100%" alt="Vibhore Kumar — Raw data. Real value. I build the pipelines in between. Aspiring data engineer with full-stack foundations." />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/LINKEDIN-126568?style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/EMAIL-126568?style=flat-square" alt="Email Vibhore" /></a>
-  <a href="https://github.com/VibhoreKumar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-171D1E?style=flat-square" alt="Explore my repositories" /></a>
+<a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/LINKEDIN-D9F279?style=for-the-badge&amp;labelColor=101820" alt="LINKEDIN" /></a>
+<a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-A7C7E7?style=for-the-badge&amp;labelColor=101820" alt="LET'S TALK" /></a>
+<a href="https://github.com/VibhoreKumar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_CODE-F2F0E9?style=for-the-badge&amp;labelColor=101820" alt="EXPLORE CODE" /></a>
 </p>
 
-I'm **Vibhore Kumar**, a **B.Tech CSE student at GD Goenka University (2027)**, building towards a career in **data engineering**. I work with Python, SQL and APIs to collect, transform and explore data. My full-stack experience helps me connect pipelines to applications people can actually use.
-
-<p align="center">
-  <a href="#data-projects">Data projects</a> ·
-  <a href="#skills-by-purpose">Skills</a> ·
-  <a href="#currently-learning">Learning</a> ·
-  <a href="#contribution-heatmap">Activity</a>
-</p>
+<p align="center">B.Tech CSE at <b>GD Goenka University · Class of 2027</b><br />Building Python and SQL projects that connect raw data to useful applications.</p>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/b4568e187095325597bbd4e77521bb094a9f455d/assets/02-field-notes.svg" width="100%" alt="Data workflow: ingest APIs and files; transform with Python and SQL; store in PostgreSQL or JSON Lines; serve dashboards and analysis. Learning PySpark, Databricks and Delta Lake." />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/934dbf7ebc75354fca5f5e200f0fcfa2b3325681/assets/02-field-notes.svg" width="100%" alt="Collect: APIs and JSON. Refine: Python and SQL. Persist: PostgreSQL and JSON Lines. Deliver: Streamlit and analytics. Currently learning PySpark, Databricks and Delta Lake." />
 
-## Data projects
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/934dbf7ebc75354fca5f5e200f0fcfa2b3325681/assets/03-projects.svg" width="100%" alt="DealSense: YouTube creator analytics with Python, PostgreSQL, Streamlit and Gemini. Weather ETL: Open-Meteo ingestion, temperature classification and append-only JSON Lines history." />
+
+<p align="center">
+<a href="https://github.com/VibhoreKumar/youtube-creator-analytics"><img src="https://img.shields.io/badge/01_DEALSENSE_CODE-D9F279?style=for-the-badge&amp;labelColor=101820" alt="01 DEALSENSE CODE" /></a>
+<a href="https://youtube-creator-analytics-jflipbqujlpcp4xnvmmuaa.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-F2F0E9?style=for-the-badge&amp;labelColor=101820" alt="LIVE DASHBOARD" /></a>
+<a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline"><img src="https://img.shields.io/badge/02_WEATHER_ETL-A7C7E7?style=for-the-badge&amp;labelColor=101820" alt="02 WEATHER ETL" /></a>
+</p>
+
+<details>
+<summary><b>Inside the projects — architecture, stack &amp; data sources</b></summary>
 
 ### 01 / DealSense — Creator ROI Intelligence
 
@@ -61,6 +66,12 @@ Collects live weather readings from Open-Meteo, extracts fields from nested JSON
 
 [View source & run instructions](https://github.com/VibhoreKumar/mini_weather_ETL_pipeline)
 
+
+</details>
+
+<details>
+<summary><b>My toolkit — skills by purpose</b></summary>
+
 ## Skills by purpose
 
 | Area | Tools & hands-on work |
@@ -72,11 +83,11 @@ Collects live weather readings from Open-Meteo, extracts fields from nested JSON
 | **Development workflow** | Git, GitHub, GitHub Actions, Postman |
 | **Supporting application skills** | React, Django REST Framework, Node.js, Express, MongoDB |
 
-## Currently learning
 
-**PySpark · Databricks · Delta Lake**
+</details>
 
-My next focus is moving from small Python pipelines towards distributed data processing: practising DataFrame transformations, exploring lakehouse storage and connecting processed datasets to dashboards.
+<details>
+<summary><b>My background — experience &amp; beyond code</b></summary>
 
 ## Experience behind the pipelines
 
@@ -85,39 +96,34 @@ My next focus is moving from small Python pipelines towards distributed data pro
 
 These experiences shaped how I approach API integration, application requirements and delivering usable outputs.
 
-<details>
-<summary><b>More about me</b></summary>
+### Beyond code
 
 - Built web projects including a team AI Resume Builder.
 - U-19 state cricket experience, representing Kota, Rajasthan.
 - Python Essentials certification.
 - Practising DSA: [LeetCode](https://leetcode.com/u/8ZHi5hqRLR) · [GeeksforGeeks](https://geeksforgeeks.org/profile/vibhore092k0l).
 
+
+
+
 </details>
 
-## Contribution heatmap
+<br />
+
+### 03 / Building in public
 
 <p align="center">
-  <a href="https://github.com/VibhoreKumar?tab=overview">
-    <img src="https://ghchart.rshah.org/126568/VibhoreKumar" width="100%" alt="Vibhore Kumar's GitHub contribution heatmap over the past year" />
-  </a>
+<a href="https://github.com/VibhoreKumar?tab=overview"><img src="https://ghchart.rshah.org/126568/VibhoreKumar" width="100%" alt="Vibhore Kumar's GitHub contribution heatmap over the past year" /></a>
 </p>
 
-## Community badges
-
+<details>
+<summary><b>Community badge wall</b></summary>
 <p align="center">
-  <a href="https://www.holopin.io/@vibhorekumar">
-    <img src="https://holopin.io/api/user/board?user=vibhorekumar&amp;refresh=20261013T002449" width="100%" alt="Vibhore Kumar’s Holopin badge board" />
-  </a>
+<a href="https://www.holopin.io/@vibhorekumar"><img src="https://holopin.io/api/user/board?user=vibhorekumar&amp;refresh=20261013T002449" width="100%" alt="Vibhore Kumar's Holopin badge board" /></a>
 </p>
+</details>
 
 ---
 
-<p align="center"><b>Let's build something that makes data useful.</b><br />Open to data engineering internships, entry-level opportunities and collaboration.</p>
-
-<p align="center">
-  <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-126568?style=for-the-badge" alt="Get in touch by email" /></a>
-  <a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-171D1E?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-</p>
-
-<p align="center"><sub>Learning in public · Building one pipeline at a time · India</sub></p>
+<p align="center"><b>The next good dataset deserves a good pipeline.</b><br /><sub>Open to data engineering internships, entry-level roles and collaboration.</sub></p>
+<p align="center"><a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/BUILD_WITH_ME-D9F279?style=for-the-badge&amp;labelColor=101820" alt="BUILD WITH ME" /></a></p>
