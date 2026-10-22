@@ -10,98 +10,26 @@
 <a href="mailto:vibhore098sharma@gmail.com">CONTACT</a>
 </p>
 
-## Selected builds
+<a id="selected-builds"></a>
 
-| LEVEL 01 / DealSense | LEVEL 02 / Weather ETL |
-| --- | --- |
-| **Creator data → useful insights.** YouTube API ingestion, Python transformations, PostgreSQL storage and a Streamlit dashboard. | **Live weather → historical records.** Open-Meteo ingestion, temperature classification, JSON Lines storage and read-only analysis. |
-| Python · SQL · Supabase · Streamlit | Python · REST API · JSON Lines |
-| [Explore code →](https://github.com/VibhoreKumar/youtube-creator-analytics) · [Play demo →](https://youtube-creator-analytics-jflipbqujlpcp4xnvmmuaa.streamlit.app/) | [Explore code →](https://github.com/VibhoreKumar/mini_weather_ETL_pipeline) |
+<a href="https://github.com/VibhoreKumar/youtube-creator-analytics"><img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/aa25fb661933a5f6fa3d926af605388ec166eeae/assets/pixel-dealsense.svg" width="100%" alt="DealSense: YouTube ingestion, Python cleaning and tiering, Supabase PostgreSQL storage, Streamlit and Gemini-assisted questions. Real creator metrics; synthetic campaign costs. Anomaly flags are not proof of fraud." /></a>
 
-<sub>DealSense uses real creator metrics with clearly labelled modeled campaign costs. Engagement anomalies are statistical flags, not proof of fraud.</sub>
+<p align="center"><a href="https://github.com/VibhoreKumar/youtube-creator-analytics">[ EXPLORE CODE ]</a> · <a href="https://youtube-creator-analytics-jflipbqujlpcp4xnvmmuaa.streamlit.app/">[ PLAY DEMO ]</a> · <a href="https://github.com/VibhoreKumar/youtube-creator-analytics/blob/main/docs/about_the_data.md">[ DATA NOTES ]</a></p>
 
-<details>
-<summary><b>Inside the projects — architecture, stack &amp; data sources</b></summary>
+<a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline"><img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/aa25fb661933a5f6fa3d926af605388ec166eeae/assets/pixel-weather.svg" width="100%" alt="Weather ETL: extract Open-Meteo readings, classify temperatures, append JSON Lines, analyze category counts and city averages. Built with Python's standard library." /></a>
 
-### 01 / DealSense — Creator ROI Intelligence
+<p align="center"><a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline">[ EXPLORE CODE + RUN INSTRUCTIONS ]</a></p>
 
-**From YouTube API data to a decision-support dashboard.**
+<a id="skills-by-purpose"></a>
 
-A pipeline and dashboard for exploring creators, comparing engagement and planning sponsorship budgets.
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/aa25fb661933a5f6fa3d926af605388ec166eeae/assets/pixel-toolkit.svg" width="100%" alt="Toolkit: Python, REST APIs, JSON, SQL, PostgreSQL, Supabase, JSON Lines, Streamlit, Git, GitHub Actions and Postman. Supporting web skills: React, Django REST, Node, Express and MongoDB. Learning PySpark, Databricks and Delta Lake." />
 
-| Stage | What the project does |
-| --- | --- |
-| Ingest | Fetches creator and recent-video data from YouTube Data API v3 |
-| Transform | Cleans records, assigns creator tiers and flags unusual engagement within category/tier groups |
-| Store | Loads processed data into Supabase PostgreSQL |
-| Serve | Presents analytics in Streamlit, with Gemini-assisted SQL questions and explanations |
+<br />
 
-**Stack:** Python · SQL · PostgreSQL · Supabase · Streamlit · YouTube API · Gemini  
-**Data transparency:** Creator metrics come from YouTube; campaign costs are a clearly labelled synthetic layer. Anomaly flags indicate unusual patterns, not proof of fraud.
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/aa25fb661933a5f6fa3d926af605388ec166eeae/assets/pixel-journey.svg" width="100%" alt="Experience: WebArclight Full-Stack Developer Intern, October 2025 to January 2026; UptoSkills Web Development Intern, July to September 2025. Beyond code: state U-19 cricket, Python Essentials and DSA practice." />
 
-[Explore the pipeline](https://github.com/VibhoreKumar/youtube-creator-analytics) · [Open the dashboard](https://youtube-creator-analytics-jflipbqujlpcp4xnvmmuaa.streamlit.app/) · [Data sources & limitations](https://github.com/VibhoreKumar/youtube-creator-analytics/blob/main/docs/about_the_data.md)
+<p align="center"><a href="https://github.com/VibhoreKumar/VibhoreKumar/blob/main/PROFILE-DETAILS.md">[ READ THE TEXT VERSION ]</a> · <a href="https://leetcode.com/u/8ZHi5hqRLR">[ LEETCODE ]</a> · <a href="https://geeksforgeeks.org/profile/vibhore092k0l">[ GEEKSFORGEEKS ]</a></p>
 
----
-
-### 02 / Weather ETL — API to historical data
-
-**A focused ETL project built with Python's standard library.**
-
-Collects live weather readings from Open-Meteo, extracts fields from nested JSON, classifies temperatures and appends clean records to a historical log.
-
-| Stage | What the project does |
-| --- | --- |
-| Extract | Requests weather data for configured cities from Open-Meteo |
-| Transform | Selects fields and classifies readings as Hot, Cold or Normal |
-| Load | Appends records in JSON Lines format |
-| Analyze | Computes category breakdowns and average temperature per city with a separate read-only script |
-
-**Stack:** Python · urllib · JSON · REST API · File-based storage  
-**Engineering focus:** Separation of extraction, transformation, storage and analysis; preserving history across runs.
-
-[View source & run instructions](https://github.com/VibhoreKumar/mini_weather_ETL_pipeline)
-
-
-</details>
-
-<details>
-<summary><b>My toolkit — skills by purpose</b></summary>
-
-## Skills by purpose
-
-| Area | Tools & hands-on work |
-| --- | --- |
-| **Ingestion** | Python, REST APIs, JSON, nested API responses |
-| **Transformation** | Python cleaning and classification, SQL, creator tiering and engagement analysis |
-| **Storage** | PostgreSQL / Supabase, JSON Lines; SQLite and MySQL familiarity |
-| **Analytics & delivery** | Streamlit dashboards, SQL querying, API-backed applications |
-| **Development workflow** | Git, GitHub, GitHub Actions, Postman |
-| **Supporting application skills** | React, Django REST Framework, Node.js, Express, MongoDB |
-
-
-</details>
-
-<details>
-<summary><b>My background — experience &amp; beyond code</b></summary>
-
-## Experience behind the pipelines
-
-- **WebArclight · Full-Stack Developer Intern · Oct 2025–Jan 2026** — worked with React, Django and REST APIs on application features and integrations.
-- **UptoSkills · Web Development Intern · Jul–Sep 2025** — contributed to web development using the MERN stack.
-
-These experiences shaped how I approach API integration, application requirements and delivering usable outputs.
-
-### Beyond code
-
-- Built web projects including a team AI Resume Builder.
-- U-19 state cricket experience, representing Kota, Rajasthan.
-- Python Essentials certification.
-- Practising DSA: [LeetCode](https://leetcode.com/u/8ZHi5hqRLR) · [GeeksforGeeks](https://geeksforgeeks.org/profile/vibhore092k0l).
-
-
-
-
-</details>
 
 <br />
 
