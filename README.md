@@ -1,19 +1,24 @@
-<!-- Custom SVG layout inspired by the supplied resume design. Versioned URL avoids stale artwork. -->
+<!-- Pixel-world design adapted from the supplied reference. Commit-pinned artwork avoids stale image caches. -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/418d5b870a0189616866d572f6859eaf8a5f2c67/assets/01-cover.svg" width="100%" alt="Vibhore Kumar — aspiring data engineer. B.Tech Computer Science, GD Goenka University, class of 2027. Skills: Python, SQL, PostgreSQL, ETL, APIs and Streamlit. Learning PySpark and Databricks. Full-stack internship experience at WebArclight and UptoSkills. Featured projects: DealSense and Weather ETL." />
+<a href="#selected-builds"><img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/717d030efef702a5bfe0f84653da8af871527569/assets/01-cover.svg" width="100%" alt="Vibhore Kumar's pixel world. Press start to explore projects. Aspiring data engineer, B.Tech CSE at GD Goenka University, class of 2027. Python, SQL, PostgreSQL, ETL, APIs and Streamlit. Learning PySpark, Databricks and Delta Lake." /></a>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/LINKEDIN-8756CF?style=for-the-badge" alt="LINKEDIN" /></a>
-<a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-8756CF?style=for-the-badge" alt="EMAIL ME" /></a>
-<a href="https://github.com/VibhoreKumar?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-8756CF?style=for-the-badge" alt="GITHUB" /></a>
+<a href="#selected-builds">▶ PRESS START</a> ·
+<a href="#skills-by-purpose">MY STACK</a> ·
+<a href="https://linkedin.com/in/vibhore-kumar-9b9298376">LINKEDIN</a> ·
+<a href="mailto:vibhore098sharma@gmail.com">CONTACT</a>
 </p>
 
-<p align="center">
-<a href="https://github.com/VibhoreKumar/youtube-creator-analytics"><img src="https://img.shields.io/badge/DEALSENSE_CODE-8756CF?style=for-the-badge" alt="DEALSENSE CODE" /></a>
-<a href="https://youtube-creator-analytics-jflipbqujlpcp4xnvmmuaa.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-8756CF?style=for-the-badge" alt="LIVE DASHBOARD" /></a>
-<a href="https://github.com/VibhoreKumar/mini_weather_ETL_pipeline"><img src="https://img.shields.io/badge/WEATHER_ETL-8756CF?style=for-the-badge" alt="WEATHER ETL" /></a>
-</p>
+## Selected builds
+
+| LEVEL 01 / DealSense | LEVEL 02 / Weather ETL |
+| --- | --- |
+| **Creator data → useful insights.** YouTube API ingestion, Python transformations, PostgreSQL storage and a Streamlit dashboard. | **Live weather → historical records.** Open-Meteo ingestion, temperature classification, JSON Lines storage and read-only analysis. |
+| Python · SQL · Supabase · Streamlit | Python · REST API · JSON Lines |
+| [Explore code →](https://github.com/VibhoreKumar/youtube-creator-analytics) · [Play demo →](https://youtube-creator-analytics-jflipbqujlpcp4xnvmmuaa.streamlit.app/) | [Explore code →](https://github.com/VibhoreKumar/mini_weather_ETL_pipeline) |
+
+<sub>DealSense uses real creator metrics with clearly labelled modeled campaign costs. Engagement anomalies are statistical flags, not proof of fraud.</sub>
 
 <details>
 <summary><b>Inside the projects — architecture, stack &amp; data sources</b></summary>
@@ -98,21 +103,23 @@ These experiences shaped how I approach API integration, application requirement
 
 </details>
 
-
 <br />
 
-<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/418d5b870a0189616866d572f6859eaf8a5f2c67/assets/02-field-notes.svg" width="100%" alt="Building in public — contribution heatmap" />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/717d030efef702a5bfe0f84653da8af871527569/assets/02-field-notes.svg" width="100%" alt="Save points — contribution activity" />
 
 <p align="center">
-<a href="https://github.com/VibhoreKumar?tab=overview"><img src="https://ghchart.rshah.org/8756CF/VibhoreKumar" width="100%" alt="Vibhore Kumar's GitHub contribution heatmap over the past year" /></a>
+<a href="https://github.com/VibhoreKumar?tab=overview"><img src="https://ghchart.rshah.org/F244A4/VibhoreKumar" width="100%" alt="Vibhore Kumar's GitHub contribution heatmap over the past year" /></a>
 </p>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/418d5b870a0189616866d572f6859eaf8a5f2c67/assets/03-projects.svg" width="100%" alt="Community badges — milestones and achievements" />
+<img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/717d030efef702a5bfe0f84653da8af871527569/assets/03-projects.svg" width="100%" alt="Collectibles — Holopin badge collection" />
 
 <p align="center">
 <a href="https://www.holopin.io/@vibhorekumar"><img src="https://holopin.io/api/user/board?user=vibhorekumar&amp;refresh=20261013T002449" width="100%" alt="Vibhore Kumar's Holopin badge board" /></a>
 </p>
 
-<p align="center"><b>Data, with purpose.</b><br /><sub>Open to data engineering internships, entry-level roles and collaboration.</sub></p>
+---
+
+<p align="center"><b>NEXT QUEST: BUILD SOMETHING USEFUL.</b><br /><sub>Open to data engineering internships, entry-level roles and collaboration.</sub></p>
+<p align="center"><a href="mailto:vibhore098sharma@gmail.com">[ SEND A MESSAGE ]</a> · <a href="https://github.com/VibhoreKumar?tab=repositories">[ EXPLORE MY WORLD ]</a></p>
