@@ -28,7 +28,7 @@
 
 <img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/ca693757c730030a1e6284970020a9c9ced1f352/assets/pixel-journey.svg" width="100%" alt="Experience: WebArclight Full-Stack Developer Intern, October 2025 to January 2026; UptoSkills Web Development Intern, July to September 2025. Beyond code: state U-19 cricket, Python Essentials and DSA practice." />
 
-<p align="center"><a href="https://github.com/VibhoreKumar/VibhoreKumar/blob/main/PROFILE-DETAILS.md">READ THE TEXT VERSION</a> · <a href="https://leetcode.com/u/8ZHi5hqRLR">LEETCODE</a> · <a href="https://geeksforgeeks.org/profile/vibhore092k0l">GEEKSFORGEEKS</a></p>
+<p align="center"><a href="https://leetcode.com/u/8ZHi5hqRLR">LEETCODE</a> · <a href="https://geeksforgeeks.org/profile/vibhore092k0l">GEEKSFORGEEKS</a></p>
 
 
 <br />
