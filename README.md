@@ -1,6 +1,6 @@
 <!-- Dark grid, pixel typography and lime visual identity. Artwork URLs are pinned to the current design commit. -->
 <p align="center">
-<a href="#selected-builds"><img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/5bb53a0b62ba450d8e5354681f1f147bcafef512/assets/01-cover.svg" width="100%" alt="Vibhore Kumar — aspiring data engineer. Python, SQL and ETL. B.Tech CSE at GD Goenka University, class of 2027." /></a>
+<a href="#selected-builds"><img src="https://raw.githubusercontent.com/VibhoreKumar/VibhoreKumar/b2b181e3150fd1b946475a8803e7f965af7a9729/assets/01-cover.svg" width="100%" alt="Vibhore Kumar — aspiring data engineer. Python, SQL and ETL. B.Tech CSE at GD Goenka University, class of 2027." /></a>
 </p>
 
 <p align="center">
