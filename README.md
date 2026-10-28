@@ -6,11 +6,10 @@
 <p align="center">
 <a href="#selected-builds"><img src="https://img.shields.io/badge/Projects-B2FF70?style=for-the-badge" height="32" alt="Projects" /></a>
 <a href="#skills-by-purpose"><img src="https://img.shields.io/badge/Skills-B2FF70?style=for-the-badge" height="32" alt="Skills" /></a>
+<a href="https://vibhorekumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-B2FF70?style=for-the-badge" height="32" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/vibhore-kumar-9b9298376"><img src="https://img.shields.io/badge/LinkedIn-B2FF70?style=for-the-badge" height="32" alt="LinkedIn" /></a>
 <a href="mailto:vibhore098sharma@gmail.com"><img src="https://img.shields.io/badge/Contact-B2FF70?style=for-the-badge" height="32" alt="Contact" /></a>
 </p>
-
-<!-- Add the portfolio button beside LinkedIn and Contact once the live URL is supplied. -->
 
 <a id="selected-builds"></a>
 
